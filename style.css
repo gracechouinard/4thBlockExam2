@@ -1,9 +1,26 @@
 h1{
     background-color:cornflowerblue;
+    text-align:center;
+    font-size: 48px;
 }
-.hey{
-    color:white;
+.page1{
+    background-color:lightcoral;
 }
-body{
-    background-color:lightskyblue
+.page2{
+    background: lightseagreen;
+}
+.page3{
+    background-color:lightgoldenrodyellow;
+}
+.page4{
+    background-color: lightcyan;
+}
+.page5{
+    background-color: lavender;
+}
+table{
+    text-align: center;
+}
+img{
+    text-align:center;
 }
